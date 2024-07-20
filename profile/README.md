@@ -5,7 +5,7 @@
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="Image by innng"/> Links
 [![](https://img.shields.io/badge/Visit_a_website-gray?style=for-the-badge&logoColor=white)](https://vtuberhub.in.th)
 [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vtuberhubinth)
-[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SpaceLogic_Studios)
+[![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dotprepare)
 [![](https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.vtuberhub.in.th)
 [![](https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/spacelogic_live)
 
