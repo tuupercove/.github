@@ -1,5 +1,5 @@
 <div align="center">
-  <img max-width="800" src="https://cdncf.vtuberhub.in.th/TuuperCoveBanners.png"/>
+  <img max-width="800" src="https://pub-c3d88553b87743b288022d79baafeea0.r2.dev/TuuperCoveBanners.png"/>
 </div>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="Image by innng"/> Links
