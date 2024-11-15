@@ -1,12 +1,12 @@
 <div align="center">
-  <img max-width="800" src="https://pub-c3d88553b87743b288022d79baafeea0.r2.dev/TuuperCoveBanners.png"/>
+  <img max-width="800" src="https://archive.hotcup.app/TuuperCoveBanners.png"/>
 </div>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="Image by innng"/> Links
-[![](https://img.shields.io/badge/Visit_a_website-gray?style=for-the-badge&logoColor=white)](https://vtuberhub.in.th)
+[![](https://img.shields.io/badge/Visit_a_website-gray?style=for-the-badge&logoColor=white)](https://v.hotcup.app)
 [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/vtuberhubinth)
 [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dotprepare)
-[![](https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.vtuberhub.in.th)
+[![](https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white)](https://v.hotcup.app/discord/hub)
 [![](https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/spacelogic_live)
 
 <!-- README by <a href="https://github.com/innng">Innng</a> -->
