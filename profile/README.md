@@ -9,6 +9,10 @@
 [![](https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white)](https://v.hotcup.app/discord/hub)
 [![](https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/spacelogic_live)
 
+## Visitors Count
+
+![Visitor Count](https://moe-counter.glitch.me/get/@tuupercove?theme=gelbooru)
+
 <!-- README by <a href="https://github.com/innng">Innng</a> -->
 
 <!--
